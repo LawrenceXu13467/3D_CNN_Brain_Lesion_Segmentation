@@ -48,3 +48,8 @@ pathway of the CNN and then apply subsampled pathway of CNN which creates
 essentially a upsampling layer. Then the algorithm will be concatenated 
 these two cnn pathway and make the final fully connected layer. 
 ```
+```
+reference:
+DeepMedic source code: https://github.com/Kamnitsask/deepmedic
+3DUnet source code: https://github.com/ellisdg/3DUnetCNN
+```
