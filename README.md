@@ -53,6 +53,6 @@ configuration, we then begin to build our actual model by make the normal
 pathway of the CNN and then apply subsampled pathway of CNN which creates 
 essentially a upsampling layer. Then the algorithm will be concatenated 
 
-**reference source code to our research:\n** 
-**DeepMedic source code**: https://github.com/Kamnitsask/deepmedic
-**3DUnet source code**: https://github.com/ellisdg/3DUnetCNN
+**reference source code to our research:
+DeepMedic source code: https://github.com/Kamnitsask/deepmedic
+3DUnet source code: https://github.com/ellisdg/3DUnetCNN
