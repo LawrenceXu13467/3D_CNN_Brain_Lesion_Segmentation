@@ -5,17 +5,29 @@
 All the code for training code and contructing the model is written in python
 
 required python library: 
+
 Theano
+
 NiBabel
+
 Parallel Python
+
 scipy 
+
 numpy 
+
 six 
+
 nibabel
+
 keras
+
 pytables
+
 nilearn
+
 SimpleITK
+
 nipype
 
 use following command to install the python library 
