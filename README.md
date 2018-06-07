@@ -1,7 +1,36 @@
 # UCLA_CS168_W18
 ## Detecting Brain Lesions using 3D CNN Techniques
 
-          
+
+All the code for training code and contructing the model is written in python
+
+required python library: 
+Theano
+NiBabel
+Parallel Python
+scipy 
+numpy 
+six 
+nibabel
+keras
+pytables
+nilearn
+SimpleITK
+nipype
+
+use following command to install the python library 
+```
+$ sudo pip3 install NAMEOFTHELIBRARY
+
+```
+CUDA is required to run the code. 
+Go on the Cuda website: https://developer.nvidia.com/cuda-90-download-archive to install the CUDA9.0 for your computer
+
+please make sure the CUDA is installed correctly 
+```
+nvcc --version
+```    
+
 **First of all, the image from the dataset is required to be preprocessed to fit the
 both of the 3D CNN models.**  
 
