@@ -2,7 +2,7 @@
 ## Detecting Brain Lesions using 3D CNN Techniques
 
 
-All the code for training code and contructing the model is written in python
+All the code for training code and contructing the model is written in python. 
 
 required python library: 
 
@@ -99,3 +99,5 @@ essentially a upsampling layer. Then the algorithm will be concatenated
 DeepMedic source code: https://github.com/Kamnitsask/deepmedic
 
 3DUnet source code: https://github.com/ellisdg/3DUnetCNN
+
+where we made modification on these source code to fit in our own data. 
