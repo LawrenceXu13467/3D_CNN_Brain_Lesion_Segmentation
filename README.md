@@ -2,6 +2,7 @@
 ## Detecting Brain Lesions using 3D CNN Techniques
 
 
+[https://github.com/LawrenceXu13467/3D_CNN_Brain_Lesion_Segmentation](https://github.com/LawrenceXu13467/3D_CNN_Brain_Lesion_Segmentation)
 [https://lawrencexu13467.github.io/3D_CNN_Brain_Lesion_Segmentation/](https://lawrencexu13467.github.io/3D_CNN_Brain_Lesion_Segmentation/)
 
 All the code for training code and contructing the model is written in python. 
